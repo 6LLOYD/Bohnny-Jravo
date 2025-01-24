@@ -5,7 +5,7 @@ using System.Collections;
 
 // Je viens de remarquer que j'ai complètement mal compris le sujet initial (à 16h42),
 // ce code est hors sujet par rapport à ce qui était demandé.
-// En effet mon joueur ralentit au fur et à mesure qu'il collecte de l'argent
+// En effet mon joueur ralentit au fur et à mesure qu'il collecte de l'argent.4
 
 // Le sujet en question:
 // Le personnage peut marcher, courir, se deplacer lentement

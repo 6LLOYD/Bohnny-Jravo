@@ -26,7 +26,7 @@ public class Joueur : MonoBehaviour
         _animator = GetComponent<Animator>();
     }
 
-    // Update is called once per frame
+    // Update is called once per frame g
     void Update()
     {
         float mouvement = Input.GetAxisRaw("Horizontal");
